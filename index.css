@@ -1,0 +1,91 @@
+.main-nav {
+    min-height: 100px;
+    position: fixed;
+    z-index: 1;
+    margin-top: 50px;
+}
+
+.nav-item > a:hover{
+    border-color: white;
+    border-bottom: 2px;
+}
+
+.src-btn {
+    margin-left: 260px;
+}
+
+
+.nav_div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    transition: 1s;
+
+}
+
+.card:hover{
+    transform: scale(2);
+}
+
+
+
+
+/* .logo{
+    margin-top: 20px;
+}
+
+.nav-opt{
+    margin-top: 30px;
+    margin-left: 280px;
+    font-size: 16px;
+} */
+
+
+.slide-pics {
+    height: 700px;
+    width: 100%;
+
+}
+
+.slider {
+    margin-top: 0px;
+}
+
+
+
+
+.card-img-top {
+    width: 150px;
+    margin-left: 35px;
+
+}
+
+
+.card-title {
+    margin-left: 50px;
+}
+
+.card-text {
+    margin-left: 50px;
+}
+
+.btn-c {
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
+.btn-c:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+
+.end {
+    height: 300px;
+    width: 100%;
+}
